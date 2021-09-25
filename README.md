@@ -35,11 +35,11 @@ a conflict that occurs when opposing changes are made to the same line of a file
 *__Push__
 a command used to upload local repository to a remote repository/
 *__Pull__
-pull requests allow for communication about changes pushed to a branch in a repository- used to discuss potential changes with collaborators before changes are merged
+pull requests allow for communication about changes pushed to a branch in a repository- used to discuss potential changes with collaborators before changes are merged/
 *__Remote__
-Git repository that is hosted on the internet or another network
+Git repository that is hosted on the internet or another network/
 *__Repository__
-a storage space for projects to be held
+a storage space for projects to be held/
 
 References
 https://njit.instructure.com/courses/19292/files/2593764?module_item_id=587061 
