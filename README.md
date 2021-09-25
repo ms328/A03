@@ -17,9 +17,9 @@
 
 
 *__Branch__
-a unique set of code changes with a specific name/
+<a unique set of code changes with a specific name/>
 *__Clone__
-to create a local copy on your computer and sync it between the two locations/
+<to create a local copy on your computer and sync it between the two locations/>
 *__Commit__
 an individual change to a file- similar to a snapshot of your project/
 *__Fetch__
